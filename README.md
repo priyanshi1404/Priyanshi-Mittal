@@ -1,5 +1,9 @@
  ## Hi,I am Priyanshi Mittal!
  
+# 💫 About Me:
+ A frontend developer with a curious mind and a problem-solver’s heart.I love turning complex ideas into smooth, user-first designs and when things break, I like fixing them. I'm also drawn to cybersecurity and enjoy exploring tools and techniques that make the web safer. Whether I’m coding, debugging, or learning something new, I’m always looking for smart ways to improve the experience.<br>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyanshi-mittal14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priiyanshi.mittal@gmail.com) 
 
